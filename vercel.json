@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "andrea_brig049",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ],
+  "trailingSlash": false
+}
